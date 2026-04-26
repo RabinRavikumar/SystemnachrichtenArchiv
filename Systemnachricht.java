@@ -1,3 +1,7 @@
+/**
+ * Repräsentiert eine einzelne Systemnachricht.
+ * Enthält Informationen über den Nachrichtentext.
+**/
 public class Systemnachricht{
   private String text;
   

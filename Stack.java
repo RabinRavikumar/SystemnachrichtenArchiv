@@ -1,3 +1,7 @@
+/**
+ * Implementiert die Datenstruktur Stack nach dem LIFO-Prinzip (Last In, First Out).
+ * Bietet Methoden zum Hinzufügen (push), Entfernen (pop) und Zurückgeben (top) von Elementen.
+ */
 public class Stack{
   private Element first;
   

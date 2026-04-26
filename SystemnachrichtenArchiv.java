@@ -1,3 +1,7 @@
+/**
+ * Verwaltet und archiviert Systemnachrichten.
+ * Nutzt einen Stack zur Speicherung und Organisation der Nachrichten.
+**/
 public class SystemnachrichtenArchiv{
   private Stack archiv;
   

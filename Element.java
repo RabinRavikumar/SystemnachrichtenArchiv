@@ -1,3 +1,7 @@
+/**
+ * Stellt ein Element innerhalb des Stacks dar.
+ * Enthält eine Referenz auf das nächste Element.
+**/
 public class Element{
   private Object value;
   private Element next;
